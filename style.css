@@ -9,7 +9,7 @@ h1 {
 }
 
 .num {
-    font-size: 45px;
+    font-size: 35px;
   }
   
 span {
@@ -21,6 +21,6 @@ nobr {
 }
 
 .msg {
-    font-size: 45px;
+    font-size: 30px;
     color: rgb(255, 24, 24);
 }
