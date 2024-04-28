@@ -1,0 +1,26 @@
+html {
+    background-color: #d8f6ff;
+    color: #193062;
+    text-align: center;
+}
+
+h1 {
+    font-size: 25px;
+}
+
+.num {
+    font-size: 45px;
+  }
+  
+span {
+    color: red;
+}
+
+nobr {
+    color:#193062;
+}
+
+.msg {
+    font-size: 45px;
+    color: rgb(255, 24, 24);
+}
