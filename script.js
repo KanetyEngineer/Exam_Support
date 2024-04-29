@@ -1,7 +1,7 @@
 {
     const update = () => {
       // 日本時間の timezone 付きで指定
-      const targetTime = new Date('2025-01-18T10:00+09:30').getTime();
+      const targetTime = new Date('2025-01-18T09:30+09:00').getTime();
       const diff = targetTime - Date.now();
       const numbers = [
         diff / 1000 / 60 / 60 / 24,
